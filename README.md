@@ -617,12 +617,14 @@ https://matica.org.ua/metodichki-i-knigi-po-matematike/osnovy-matematiki-i-ee-pr
 <h2 id="20"> 20. Классификация изображений с помощью глубоких сверточных нейронных сетей</h2>
 
 <p align="right"><a href="#readme-top">К содержанию</a></p>
-
+<hr/>
+git
 ##
 
 <h2 id="21"> 21. Строительные блоки сверточных нейронных сетей</h2>
 
 <p align="right"><a href="#readme-top">К содержанию</a></p>
+<hr/>
 
 ##
 
